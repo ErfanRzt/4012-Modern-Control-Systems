@@ -9,8 +9,4 @@ In this project, students applied different control design techniques to an assu
 
 Here, I will be sharing my implementation of the project, which involves designing and analyzing control using modern control techniques. Additionally, to analyze the various control design techniques, I used MATLAB and Simulink. These tools allowed me to compare and simulate different approaches, and to visualize the performance of the resulting control systems. In this repository, you will find all the MATLAB and Simulink codes and documentation related to the project.
 
-
-
 </div>
-
-<embed src="./Report/Capstone Report.pdf" type="application/pdf">
